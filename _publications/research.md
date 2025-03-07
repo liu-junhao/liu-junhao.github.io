@@ -26,7 +26,7 @@ redirect_from:
 ### 1. [Website Cookies and Voluntary Disclosure](https://papers.ssrn.com/abstract=5054122) (R&R at _Journal of Accounting and Economics_)
 * Presented at 2023 Emerging Scholars in Accounting Conference, 2024 AAA Annual Meeting, Frankfurt School of Finance and Management, New York University, Singapore Management University, Texas Christian University, University of British Columbia, University of Hong Kong, University of Melbourne, University of Toronto, and University of Washington
 
-### 2. Accounting for Data Assets (with Xingchao Gao and Hai Lu) 
+### 2. [Accounting for Data Assets](https://papers.ssrn.com/abstract=5164215) (with Xingchao Gao and Hai Lu) 
 * Scheduled presentations: 2025 Hawaii Accounting Research Conference, 2025 AAA FARS Midyear Meeting
 
 
