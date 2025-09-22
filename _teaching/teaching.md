@@ -7,22 +7,11 @@ redirect_from:
   - /teaching.html
 ---
 
-### Teaching Interests
-I am particularly interested in teaching data analytics at all levels using tools such as Microsoft Excel, SQL, Python, R, and Tableau. I am also interested in and qualified to teach a wide range of courses including but not limited to  financial accounting, managerial accounting, and financial statement analysis.
-
 
 ### Course Instructor
-* RSM 326: Data Analytics Using Financial Accounting Information (Evaluation: 4.6/5.0, 2022 Rotman Teaching Excellence Award Winner)
-  * Undergraduate-level course on using accounting data, managing databases, and applying data analytics to address accounting and business questions.
-  * Covered a number of data analytic tools including Microsoft Excel, Microsoft Access, SQL, and Tableau and databases such as Compustat, CRSP, I/B/E/S, Yahoo Finance, and SEC EDGAR.
-    
-
-### Teaching Assistant
-* RSM 429: Financial Statement Analysis and Valuation (for Ole-Kristian Hope)
-  * Taught one full lecture on combining data analytics with financial statement analysis
-* MGT 415: Valuation: Fundamentals and Data (for Akash Chattopadhyay)
-  * Held tutorial sessions on using Python to test and implement quantitative trading strategies
-* MGT 336: Security Analysis (for Akash Chattopadhyay)
-* RSM 1220: Financial Accounting (MBA) (for Franco Wong)
-* RSM 326: Data Analytics Using Financial Accounting Information (for Franco Wong)
+* CMCE 10002 (Foundations of Business Analytics)
+  * Undergraduate-level intro course to business analytics using R
+  * [Textbook](https://unimelb-cmce-10002.github.io/fba-book/) written for the subject (by Lachlan Deer, Patrick Ferguson, and Junhao Liu)
+* ACCT 30001 (Analysis of Firms and Financial Statements)
+  * Undergraduate capstone subject in Year 3 covering financial statement analysis and financial accounting theory
 
